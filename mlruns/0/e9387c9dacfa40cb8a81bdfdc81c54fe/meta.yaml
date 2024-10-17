@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abhinavlalam/Library/CloudStorage/GoogleDrive-abhinavlalam%40gmail.com/My%20Drive/projects/Github/test-beds/mlruns/0/e9387c9dacfa40cb8a81bdfdc81c54fe/artifacts
+end_time: 1729156921845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9387c9dacfa40cb8a81bdfdc81c54fe
+run_name: distilbert-base-uncased-lora-text-classification
+run_uuid: e9387c9dacfa40cb8a81bdfdc81c54fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729153779056
+status: 3
+tags: []
+user_id: abhinavlalam
